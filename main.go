@@ -1,8 +1,8 @@
 package main
 
 import (
-	"BookStack/easyjson"
-	"BookStack/fetcher"
+	"AntFund/easyjson"
+	"AntFund/fetcher"
 	"bufio"
 	"bytes"
 	"encoding/json"
